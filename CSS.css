@@ -1,0 +1,71 @@
+*{
+	  background-image: url(background.png)
+}
+p#p01 {
+    color: #580000 ;
+    padding: 5px;
+    margin: 5px;
+    font-family: arial;
+    font-size: 100%;
+}
+p#p02 {
+    color: #330033 ;
+    padding: 5px;
+    margin: 10px;
+    font-family: arial;
+    font-size: 80%;
+}
+img 
+{
+	 margin:0; 
+  padding:0;
+  display:block;
+}
+a{
+	color: #333;
+	text-decoration: none;
+}
+.l{
+	
+}
+.container{
+	width: 55%;
+	height: 100%;
+	position: center;
+}
+.back-to-reg{
+	line-height: 24px;
+	font-size: 11px;
+	margin-right: 28%;
+	background: rgba(0, 0, 0, 0.05);
+	text-transform: uppercase;
+	z-index: 9999;
+	position: relative;
+	box-shadow: 1px 0px 2px rgba(0,0,0,0.2);
+}
+.t img
+{
+ margin-right: 5%;
+}
+.back-to-reg a{
+	padding: 0px 10px;
+	letter-spacing: 1px;
+	color: #333;
+	text-shadow: 0px 1px 1px #fff;
+	display: block;
+	float: left;
+}
+.clearfix {
+    overflow: auto;
+}
+.back-to-reg a:hover{
+	background: #d9d7da;
+}
+.clr{
+	clear: both;
+}
+.t.clip {
+  position: absolute;
+  clip: rect(0, 100px, 200px, 0);
+  /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
+}
