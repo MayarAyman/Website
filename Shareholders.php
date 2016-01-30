@@ -14,8 +14,8 @@
 <br/>
 <br/>
 <div class="t"><a href="Home.php"><img src="logo.png" height="80" width="100" align="middle"></a></div>
-<div class="t"><a id="egas" href="http://www.egas.com.eg/home.aspx"><img src="EGASDIAGRAM.png" usemap="#planetmap" height="80" width="100" align="middle"></a></div>
-<div class="t"><a id="apic" href="http://www.apicorp-arabia.com"><img src="APICORPDIAGRAM.png" usemap="#planetmap" height="80" width="100" align="middle"></a></div>
-<div class="t"><a id="dana" href="http://www.danagas.com/en"><img src="DANAGASDIAGRAM.png" usemap="#planetmap" height="80" width="100" align="middle"></a></div>
+<div class="t"><a id="egas" href="http://www.egas.com.eg/home.aspx"><img src="EGASDIAGRAM.png" height="80" width="100" align="middle"></a></div>
+<div class="t"><a id="apic" href="http://www.apicorp-arabia.com"><img src="APICORPDIAGRAM.png" height="80" width="100" align="middle"></a></div>
+<div class="t"><a id="dana" href="http://www.danagas.com/en"><img src="DANAGASDIAGRAM.png" height="80" width="100" align="middle"></a></div>
 </body>
 </html>
