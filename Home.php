@@ -23,20 +23,25 @@
 <br/>
 <div class="t"><img src="Picture1.jpg" height="450" width="600" align="right"> </div>
  <p id="p01"> <Strong> Vision <Strong> </p>
-<p id="p02">To be a strong competitor in the gas derivatives field </p>
+<p id="p02">To be a strong competitor in the gas derivatives field. </p>
    <p id="p01"> <Strong> Mission <Strong> </p>
 <p id="p02"> 
-	* Maximize propane and butane  production to fit the international & local market specifications safely, reliably and profitably.
+	Maximize propane and butane  production to fit the international & local market specifications safely, reliably and profitably.
 	<br/>
-	* Maintain ZERO HSE records
 	<br/>
-	* Sustain value and create strong financial returns for our shareholders and employees. 
+	Maintain ZERO HSE records
 	<br/>
-	* Achieve highest staff performance </p>
+	<br/>
+	Sustain value and create strong financial returns for our shareholders and employees. 
+	<br/>
+	<br/>
+	Achieve highest staff performance. </p>
  <p id="p01"> <Strong>  Strategies <Strong> </p>
 <p id="p02"> 
-	* Reach the best performance in all dep. with a continuous monitoring and feedback to maximize the products.
-	* Apply high measures of process safety matching with the international stander KPI’s and best practices. 
+	Reach the best performance in all dep. with a continuous monitoring and feedback to maximize the products.
+	<br/>
+	<br/>
+	Apply high measures of process safety matching with the international stander KPI’s and best practices. 
 	Achieve business objectives by reducing costs and maximize product selling price.
 	Maintain plant equipment reliability and availability at highest level.
 	Develop the employees capabilities and build the leadership motivation through training.</p>
