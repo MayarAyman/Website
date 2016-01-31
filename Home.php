@@ -2,26 +2,45 @@
 <html>
 <head> <title> Home</title> 
 <script src="jquery-1.11.3.min.js"></script>
+<link rel="stylesheet" type="text/css" href="mouseovertabs.css" />
+
+<script src="mouseovertabs.js" type="text/javascript">
+
+/***********************************************
+* Mouseover Tabs Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Please keep this notice intact
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
 </head>
 <link rel="stylesheet" type="text/css" href="CSS.css" media="all" />
 <body>
 <div class="l"><a href="Home.php"><img src="logo.png"  display: "block" height="50" width="220"></a></div>
-<br/>
-<br/>
-	</body>
-<div class="container">
-            <div class="back-to-reg">
-              <a href="Shareholders.php" target="_self"><strong>Shareholders</strong></a>
-               <a href="Profile.php" target="_self"><strong>Company Profile</strong></a>
-               <a href="HSE.php" target="_self"><strong> HSE </strong>  </a>
-                <a href="Media.php" target="_self"><strong> Media Center </strong>  </a>
-                 <a href="Contact.php" target="_self"><strong> Contact Us </strong>  </a>
-                 <div class="clr">
+<p style="Color:green;">Egyptian Bahraini
+</br>
+ Gas Derivatives Company</p>
+</body>
+<div id="mytabsmenu" class="tabsmenuclass">
+<ul>
+<li><a href="Shareholders.php" rel="gotsubmenu[selected]">Shareholders</a></li>
+<li><a href="Profile.php" rel="gotsubmenu">Company Profile</a></li>
+<li><a href="HSE.php">HSE</a></li>
+<li><a href="Media.php">Media Center</a></li>
+<li><a href="Contact.php">Contact US</a></li>
+</ul>
 </div>
- </div>
+<div id="mysubmenuarea" class="tabsmenucontentclass">
+
+<!--1st link within submenu container should point to the external submenu contents file-->
+<a href="submenucontents.htm" style="visibility:hidden">Sub Menu contents</a>
 </div>
+<script type="text/javascript">
+//mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", true)
+</script>
 <br/>
-<div class="t"><img src="Picture1.jpg" height="450" width="600" align="right"> </div>
+<div class="t"><img src="Picture3.jpg" height="400" width="1000" align="middle"> </div>
  <p id="p01"> <Strong> Vision <Strong> </p>
 <p id="p02">To be a strong competitor in the gas derivatives field. </p>
    <p id="p01"> <Strong> Mission <Strong> </p>
@@ -45,5 +64,4 @@
 	Achieve business objectives by reducing costs and maximize product selling price.
 	Maintain plant equipment reliability and availability at highest level.
 	Develop the employees capabilities and build the leadership motivation through training.</p>
-
 </html>
